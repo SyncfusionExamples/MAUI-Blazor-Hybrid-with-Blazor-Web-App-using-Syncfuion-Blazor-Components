@@ -2,7 +2,7 @@
 This example shows using Syncfusion Blazor Components in .NET MAUI Blazor Hybrid app with a Blazor Web App.
 
 ## Prerequisites
-* .NET SDK 7.0
+* .NET SDK 9.0
 * Visual Studio 2022 version 17.3 or greater, with the required workload:
   * .NET Multi-platform App UI development.
 
