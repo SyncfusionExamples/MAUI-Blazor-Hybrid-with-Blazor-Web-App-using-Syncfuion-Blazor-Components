@@ -1,6 +1,6 @@
 # MAUI Blazor Hybrid with Components
 
-A comprehensive example demonstrating how to build cross-platform applications using ** Blazor Components** with **.NET MAUI Hybrid** architecture, combined with an **ASP.NET Core Blazor Web App** backend. This solution showcases code sharing between native and web platforms while leveraging powerful UI components.
+A comprehensive example demonstrating how to build cross-platform applications using **[Blazor Components](https://blazor.syncfusion.com/documentation/introduction)** with **.NET MAUI Hybrid** architecture, combined with an **ASP.NET Core Blazor Web App** backend. This solution showcases code sharing between native and web platforms while leveraging powerful UI components.
 
 ## Overview
 
@@ -56,6 +56,6 @@ dotnet run
 ## References
 
 - [Blazor Documentation](https://learn.microsoft.com/en-us/aspnet/core/blazor)
-- [Official MAUI Documentation](https://learn.microsoft.com/en-us/dotnet/maui/)
+- [MAUI Documentation](https://learn.microsoft.com/en-us/dotnet/maui/)
 - [Blazor Hybrid Documentation](https://learn.microsoft.com/en-us/aspnet/core/blazor/hybrid/)
-- [Blazor Getting Started](https://blazor.syncfusion.com/documentation/introduction/)
+- [Blazor Component Documentation](https://blazor.syncfusion.com/documentation/introduction/)
