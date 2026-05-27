@@ -46,7 +46,6 @@ cd MAUI-Blazor-Hybrid-with-Blazor-Web-App-using-Syncfusion-Blazor-Components
 
 ## References
 
-- [Blazor Documentation](https://learn.microsoft.com/en-us/aspnet/core/blazor)
-- [MAUI Documentation](https://blazor.syncfusion.com/documentation/getting-started/maui-blazor-app)
-- [Blazor Hybrid Documentation](https://learn.microsoft.com/en-us/aspnet/core/blazor/hybrid/)
-- [Blazor Component Documentation](https://blazor.syncfusion.com/documentation/introduction/)
+- [Blazor Documentation](https://blazor.syncfusion.com/documentation/introduction/)
+- [Blazor Hybrid Documentation](https://blazor.syncfusion.com/documentation/getting-started/maui-blazor-app)
+
